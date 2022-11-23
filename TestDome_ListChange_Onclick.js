@@ -1,5 +1,8 @@
 /* created by Siva Kumar Aketi on 21st November 2022 */
 
+/*Complete the List component, which accepts an items prop and moves the clicked element to
+the first place in the list. Please use functional component approach */
+
 import React from "react";
 const listItem = ["A", "B", "C", "D"];
 
